@@ -1,0 +1,1 @@
+https://www.vertabelo.com/blog/technical-articles/calling-all-cabs-a-database-model-for-a-taxi-service

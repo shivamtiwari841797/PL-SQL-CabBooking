@@ -1,0 +1,37 @@
+1. Driver:
+
+exec reg_driver('kartik','gupta','10-jun-1997','IND10001','15-sep-2019','y');
+exec reg_driver('sahil','goel','23-jan-1996','IND10002','20-oct-2021','y');
+
+2. Owner:
+
+exec reg_owner('Shivam');
+exec reg_owner('Mukesh');
+
+3. Car_model:
+
+exec reg_car_model('Hatchback','Doors Opening upwards');
+exec reg_car_model('Sedan','Four Doors');
+
+4. Cab:
+
+exec reg_cab('s101',1998,30001,'Sedan');
+exec reg_cab('s102',1998,30002,'Hatchback');
+exec reg_cab('s103',2013,30001,'Hatchback');
+
+5. Customer:
+
+exec reg_customer('1234','ashu','ashu@gmail.com',9876543210,'ashu@oksbi');
+exec reg_customer('1234','shobhit','shobhit@gmail.com',9874563210,'shobhit@oksbi');
+exec reg_customer('14','mohit','mohit@gmail.com',9887563210,'mohit@oksbi');
+
+6. Driver_cab;
+
+exec reg_driver_cab(10000,20000);
+exec reg_driver_cab(10001,20001);
+
+7. Distance_map:
+
+exec reg_distance_map('gumti','jareeb',5);
+exec reg_distance_map('gumti','rawatpur',5);
+exec reg_distance_map('jareeb','rawatpur',10);
